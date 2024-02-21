@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there I'm belaid sarah
+- 🚀 Currently exploring the Full Stack development journey
+- 👯 I’m looking to collaborate on web and data science projects  
+- 💬 Ask me about data science, web development 
+- 📫 How to reach me: s_belaid@estin.dz
 
-<!--
-**belaid-sarah/belaid-sarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  <h3 align="left">My Skills:</h3>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nosql/nosql-original-wordmark.svg" alt="NoSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=belaid-sarah&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=belaid-sarah&theme=dark&hide_border=false) <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=belaid-sarah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
