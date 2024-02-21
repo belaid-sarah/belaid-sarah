@@ -19,8 +19,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nosql/nosql-original-wordmark.svg" alt="NoSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 </p>
-
-
 </p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=belaid-sarah&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=belaid-sarah&theme=dark&hide_border=false) <br>
