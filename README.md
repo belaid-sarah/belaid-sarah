@@ -1,10 +1,10 @@
-### Hi there I'm belaid sarah
+### Hi there, I'm Belaid Sarah
 - 🚀 Currently exploring the Full Stack development journey
 - 👯 I’m looking to collaborate on web and data science projects  
 - 💬 Ask me about data science, web development 
 - 📫 How to reach me: s_belaid@estin.dz
 
--  <h3 align="left">My Skills:</h3>
+<h3 align="left">My Skills:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nosql/nosql-original-wordmark.svg" alt="NoSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 </p>
-</p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=belaid-sarah&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=belaid-sarah&theme=dark&hide_border=false) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=belaid-sarah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
