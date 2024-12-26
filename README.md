@@ -17,6 +17,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://fastapi.tiangolo.com/img/logo/logo-teal.svg" alt="FastAPI" width="40" height="40"/>
+</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=belaid-sarah&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=belaid-sarah&theme=dark&hide_border=false) <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=belaid-sarah&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
+
 
 
 </p>
