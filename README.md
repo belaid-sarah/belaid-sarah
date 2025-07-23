@@ -5,6 +5,8 @@
 - 🤝 Open to collaborations on AI and web development projects  
 - 📫 How to reach me: belaidsarah2004@gmail.com  
 
+---
+
 <h3 align="left">My Skills:</h3>
 <p align="left"> 
   <!-- Web & Programming -->
@@ -29,13 +31,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
 
-  <!-- LLMs & AI Ecosystem -->
+  <!-- AI Ecosystem -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="OpenAI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gemini_logo.svg/120px-Gemini_logo.svg.png" alt="Gemini" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="LangChain" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gemini_logo.svg/512px-Gemini_logo.svg.png" alt="Gemini" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=belaid-sarah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=belaid-sarah&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=belaid-sarah&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
+---
 
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=belaid-sarah&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belaid-sarah&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belaid-sarah&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
