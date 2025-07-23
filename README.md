@@ -1,5 +1,5 @@
 ### Hi there, I'm Belaid Sarah
-- 🧠 Junior in Data Science & AI | Currently AI Engineer @ Laive.ai
+- 🧠 Junior in Data Science & AI | Currently AI Engineer @Laive.ai
 - 🌱 Learning and growing in the world of machine learning, LLMs, AI agents, and data-centric applications  
 - 🛠️ Passionate about building intelligent systems that solve real-world problems
 - 🤝 Open to collaborations on AI and web development projects
