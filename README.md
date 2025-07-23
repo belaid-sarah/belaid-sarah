@@ -2,7 +2,7 @@
 - 🚀 Currently exploring the Full Stack development journey
 - 👯 I’m looking to collaborate on web and data science projects  
 - 💬 Ask me about data science, web development 
-- 📫 How to reach me: s_belaid@estin.dz
+- 📫 How to reach me: belaidsarah2004@gmail.com
 
 <h3 align="left">My Skills:</h3>
 <p align="left"> 
