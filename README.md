@@ -1,7 +1,8 @@
 ### Hi there, I'm Belaid Sarah
-- 🚀 Currently exploring the Full Stack development journey
-- 👯 I’m looking to collaborate on web and data science projects  
-- 💬 Ask me about data science, web development 
+- 🧠 Junior in Data Science & AI | Currently AI Engineer @ Laive.ai
+- 🌱 Learning and growing in the world of machine learning, LLMs, AI agents, and data-centric applications  
+- 🛠️ Passionate about building intelligent systems that solve real-world problems
+- 🤝 Open to collaborations on AI and web development projects
 - 📫 How to reach me: belaidsarah2004@gmail.com
 
 <h3 align="left">My Skills:</h3>
