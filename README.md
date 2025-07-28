@@ -1,13 +1,32 @@
-### Hi there, I'm Belaid Sarah
+<!-- BANNIÈRE AVEC TYPING EFFECT -->
+<p align="center">
+  <a href="https://github.com/belaid-sarah">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Hi+I'm+Sarah+Belaid;AI+Engineer+%7C+Data+Scientist+%7C+Web+Developer;Passionate+about+AI+%2B+LLMs+%2B+Data" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### Hi there, I'm Belaid Sarah 👩‍💻
+
 - 🧠 Junior in Data Science & AI | Currently AI Engineer @Laive.ai  
 - 🌱 Learning and growing in the world of machine learning, LLMs, AI agents, and data-centric applications  
 - 🛠️ Passionate about building intelligent systems that solve real-world problems  
 - 🤝 Open to collaborations on AI and web development projects  
-- 📫 How to reach me: belaidsarah2004@gmail.com  
+- 📫 Reach me at: **belaidsarah2004@gmail.com**
 
 ---
 
-<h3 align="left">My Skills:</h3>
+### 🚀 Featured Projects
+
+- 🧠 [AI Resume Analyzer](https://github.com/username/project1) – NLP app to rank resumes based on job descriptions using BERT.
+- 🍔 [Food Delivery App](https://github.com/username/food-delivery) – Full-stack web app with cart, payment, and order tracking (React, Node, MongoDB).
+- 🧪 [Student Placement System](https://github.com/username/project3) – Matching students with English schools based on test results.
+
+---
+
+<h3 align="left">🧠 My Skills</h3>
+
 <p align="left"> 
   <!-- Web & Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -39,7 +58,8 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=belaid-sarah&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <br/>
@@ -47,3 +67,26 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belaid-sarah&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
+
+---
+
+### 🌐 Badges
+
+![Status](https://img.shields.io/badge/Actively%20Learning-LLMs%20%7C%20AI%20Agents-blue)
+![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=flat&logo=google-chrome&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah%20Belaid-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-link/)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Working on AI" />
+</p>
+
+---
+
+### ✨ Quote
+
+> “The best way to predict the future is to build it.” — Alan Kay
+
+---
+
