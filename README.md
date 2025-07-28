@@ -1,9 +1,10 @@
 <!-- BANNIÈRE AVEC TYPING EFFECT -->
 <p align="center">
   <a href="https://github.com/belaid-sarah">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Hi+I'm+Sarah+Belaid;AI+Engineer+%7C+Data+Scientist+%7C+Web+Developer;Passionate+about+AI+%2B+LLMs+%2B+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Sarah+Belaid;AI+Engineer+%7C+Data+Scientist+%7C+Web+Developer;LLMs+%7C+AI+Agents+%7C+ML+%7C+Data+Apps" alt="Typing SVG" />
   </a>
 </p>
+
 
 ---
 
