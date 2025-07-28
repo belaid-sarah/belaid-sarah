@@ -5,7 +5,6 @@
   </a>
 </p>
 
-
 ---
 
 ### Hi there, I'm Belaid Sarah 👩‍💻
@@ -20,9 +19,17 @@
 
 ### 🚀 Featured Projects
 
-- 🧠 [AI Resume Analyzer](https://github.com/username/project1) – NLP app to rank resumes based on job descriptions using BERT.
-- 🍔 [Food Delivery App](https://github.com/username/food-delivery) – Full-stack web app with cart, payment, and order tracking (React, Node, MongoDB).
-- 🧪 [Student Placement System](https://github.com/username/project3) – Matching students with English schools based on test results.
+- 🤖 [**AI Agent for Data Extraction**](https://github.com/your-username/ai-agent-extraction)  
+  Intelligent agent that extracts structured data from unstructured sources using LangChain, OpenAI APIs, and prompt engineering techniques.
+
+- 💬 [**Sentiment Prediction App**](https://github.com/your-username/sentiment-predictor)  
+  NLP web app that classifies text sentiment (positive, negative, neutral) using TF-IDF, logistic regression, and scikit-learn.
+
+- 🍔 [**Food Delivery App**](https://github.com/your-username/food-delivery)  
+  Full-stack web app with authentication, cart system, order tracking, and Stripe payments – built using React.js, Node.js, Express, and MongoDB.
+
+- 🧪 [**Student Placement System**](https://github.com/your-username/student-placement)  
+  Web platform matching students with English schools based on personalized test results – combining FastAPI backend with React frontend.
 
 ---
 
@@ -87,7 +94,8 @@
 
 ### ✨ Quote
 
-> “The best way to predict the future is to build it.” — Alan Kay
+> “We live once. We code a lot.”
 
 ---
+
 
